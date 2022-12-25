@@ -1,0 +1,3 @@
+VERCEL_PROJECT_NAME=devkings-marketplace-dev
+VERCEL_TOKEN=8Mlfb5AoJSnHZzSr7fdqnaQr
+VERCEL_SCOPE=devkings
